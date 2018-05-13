@@ -1,4 +1,3 @@
-# mayerdowa
 # discord.js-heroku
 
 > An in-depth guide on deploying your
